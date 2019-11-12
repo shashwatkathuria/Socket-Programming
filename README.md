@@ -1,7 +1,7 @@
-#Socket Programming - Physical and Data Link Layer of TCP/IP Model
+# Socket Programming - Physical and Data Link Layer of TCP/IP Model
 
 ------------------------------------------------------------------------------------------------------------
-##Features
+## Features
 ------------------------------------------------------------------------------------------------------------
 
 - Manchester Encoding
@@ -10,13 +10,13 @@
 - Frame by Frame Communication of Message
 
 ------------------------------------------------------------------------------------------------------------
-##Language Used
+## Language Used
 ------------------------------------------------------------------------------------------------------------
 
 Python 2.7.15+
 
 ------------------------------------------------------------------------------------------------------------
-##INSTRUCTIONS ON HOW TO RUN THE PROGRAM
+## INSTRUCTIONS ON HOW TO RUN THE PROGRAM
 ------------------------------------------------------------------------------------------------------------
 
 			First run server program then run client program.
@@ -28,13 +28,13 @@ Python 2.7.15+
 Note - Please ensure that python 2.7.15+ and libraries pylab, socket and random are installed.
 
 ------------------------------------------------------------------------------------------------------------
-##Input Format
+## Input Format
 ------------------------------------------------------------------------------------------------------------
 
 It is an interactive program and input specifications are asked at every step in the program.
 
 ------------------------------------------------------------------------------------------------------------
-##Output Format
+## Output Format
 ------------------------------------------------------------------------------------------------------------
 
 Every encoding and checksum alongwith graphs are outputted in the console.
