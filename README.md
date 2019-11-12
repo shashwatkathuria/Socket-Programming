@@ -1,5 +1,13 @@
+Socket Programming - Physical and Data Link Layer of TCP/IP Model
 ------------------------------------------------------------------------------------------------------------
-CS311(Data Communication) Course Project - Implementing the Physical and Data link layer
+Features
+------------------------------------------------------------------------------------------------------------
+
+- Manchester Encoding
+- Cyclic Redundancy Check (CRC) Error Detection
+- Graphical Plotting of Signals
+- Frame by Frame Communication of Message
+
 ------------------------------------------------------------------------------------------------------------
 Language Used
 ------------------------------------------------------------------------------------------------------------
